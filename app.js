@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
     mobileMenu.classList.remove("active");
     body.classList.remove("dimmed");
     overlay.style.opacity = "0";
-    overlay.style.visibility = "invisible";
+    overlay.style.visibility = "hidden";
   };
 
   toggleMenuSVG.addEventListener("click", openMenu);
