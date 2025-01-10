@@ -22,13 +22,13 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+<img width="1437" alt="Screenshot 2025-01-09 at 4 13 21 PM" src="https://github.com/user-attachments/assets/2b889dd4-05e0-4c4d-9100-e49a412d8229" />
 
-![](./screenshot.jpg)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [sherimin.github.io/news-homepage/](https://sherimin.github.io/news-homepage/)
 
 ## My process
 
